@@ -17,7 +17,7 @@ This project implements different search algorithms to solve pathfinding problem
   - **Depth-First Search (DFS)**: A search algorithm that explores as far as possible along each branch before backtracking.
   - **Breadth-First Search (BFS)**: A search algorithm that explores all the nodes at the present depth level before moving on to the nodes at the next depth level.
   - **Greedy Best-First Search (GBFS)**: A search algorithm that expands the node that appears to be closest to the goal based on a heuristic.
-  - **A* Search (Alpha Star)**: A search algorithm that combines the best features of DFS, BFS, and GBFS. It uses both the actual cost to reach a node and an estimate of the remaining cost to the goal.
+  - **A\* Search (Alpha Star)**: A search algorithm that combines the best features of DFS, BFS, and GBFS. It uses both the actual cost to reach a node and an estimate of the remaining cost to the goal.
 
 ## Requirements
 
